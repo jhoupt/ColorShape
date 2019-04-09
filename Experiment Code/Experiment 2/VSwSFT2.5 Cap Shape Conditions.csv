@@ -1,0 +1,5 @@
+type,target,distractors,color,shape
+Capacity,RC,15RD 08RO,A,H
+Capacity,RC,08RD 15RO,A,L
+Capacity,ABS,16RD 08RO,A,H
+Capacity,ABS,08RD 16RO,A,L

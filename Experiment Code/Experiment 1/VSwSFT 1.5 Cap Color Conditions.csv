@@ -1,0 +1,5 @@
+type,target,distractors,color,shape
+Capacity,RC,23VC,H,A
+Capacity,RC,23MC,L,A
+Capacity,ABS,24VC,H,A
+Capacity,ABS,24MC,L,A

@@ -1,0 +1,1 @@
+Version	Date	Stimuli	Method	Subject	Session	Condition	Trial	Target	Channel1	Channel2	Distractors	LMouseButton	RMouseButton	RT	TargetX	TargetY	ResponseX	ResponseY	Correct
